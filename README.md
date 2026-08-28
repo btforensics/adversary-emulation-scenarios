@@ -40,4 +40,4 @@ These scenarios are generalized training material and do not represent any speci
 
 ## About Me
 
-I'm a senior incident responder and threat researcher with 16+ years leading end-to-end IR engagements, mentoring analysts, and building AI-assisted investigative tooling. Find more of my work at [github.com/michaelsmith](https://github.com/michaelsmith).
+I'm a senior incident responder and threat researcher with 16+ years leading end-to-end IR engagements, mentoring analysts, and building AI-assisted investigative tooling.
